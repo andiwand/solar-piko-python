@@ -7,7 +7,7 @@ import sqlite3
 
 HOST = "192.168.15.11"
 PORT = 80
-AUTH = b"pvserver:stefl"
+AUTH = b"pvserver:b5SghmU2"
 
 DB_PATH = "test.db"
 DB_INIT_PATH = "init.sql"
